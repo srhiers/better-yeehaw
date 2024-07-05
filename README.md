@@ -1,7 +1,7 @@
 # better-yeehaw
 This is how I like to play RDR2. [MODPACK]
 
-  Prerequisites:‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  Prerequisites:‎
 LENNY's MOD LOADER                    (https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/);
 ONLINE CONTENT UNLOCKER               (https://www.nexusmods.com/reddeadredemption2/mods/1688);
 SCRIPTHOOK                            (http://dev-c.com/rdr2/scripthookrdr2/);
