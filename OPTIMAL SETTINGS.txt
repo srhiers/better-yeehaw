@@ -1,0 +1,82 @@
+Texture: Ultra
+
+Anisotropic Filter: Ultra
+
+Lighting Quality: High
+
+Global Illumination: Ultra
+
+Shadow Quality: High; 5% FPS increase, negligible visual difference
+
+Far Shadow Quality: High; 0,5% FPS increase, negligible visual difference
+
+SSAO: Ultra | Off; 6% FPS increase, Not recommended, very noticeable visual difference
+
+Reflection Quality: Medium; 16% FPS increase | Medium; 21% FPS increase, slight noticeable visual difference
+
+Mirror Quality: Ultra
+
+Water Quality: Medium; 15% FPS increase, slight noticeable visual difference
+
+Volumetrics Quality: High; 5% FPS increase | Medium; 7% FPS increase, slight noticeable visual difference
+
+Particle Quality: Ultra; No significant FPS gain
+
+Tessellation: Ultra; No significant FPS gain
+
+TAA: High
+
+FXAA: Off; noticeable visual difference
+
+MSAA: X2 = -16,5% FPS | X4 = -31% FPS | X8 = -50% FPS | Use this if you have FPS to spare
+
+
+
+Advanced Settings:
+
+Graphics API: Vulkan; no average fps difference but it runs smoother for me and looks better
+
+Near Volumetric Resolution: Medium; 6,5% FPS increase
+
+Far Volumetric Resolution: Ultra | Medium; 1% FPS increase
+
+Volumetric Lighting: High; 3% FPS increase
+
+Unlocked Volumetric Raymarch Resolution: On; No significant gain
+
+Particle Lighting Quality: Ultra; No significant gain
+
+Soft Shadows: Ultra; 1,5% FPS increase
+
+Grass shadows: Medium; 1,5% FPS increase
+
+Long Shadows: On; No significant gain
+
+Full Resolution Ambient Occlusion: Off; 3,7% FPS increase, negligible visual difference
+
+Water Refraction Quality: Medium; 7% FPS increase | Low, 8% FPS increase, negligible visual difference
+
+Water Reflection Quality: High; 1,5 FPS decrease, noticeable visual difference
+
+Water physics: Half; 31% FPS increase compared to Full, 3,5% FPS increase compared to 3/4
+
+TAA Sharpening: 60% at most (same bar length at Geometry Level). Don't use it if you use DLSS.
+
+Motion blur: No significant difference. Use what you prefer.
+
+Reflection MSAA: X2
+
+Geometry Level of detail: 3 is recommended
+
+Grass level of detail: 4 or 10. 4 = +1% FPS increase, negligible visual difference
+
+Tree Quality: Ultra; No significant gain
+
+Parallax Occlusion Mapping Quality: High
+
+Decal Quality: Ultra; No significant gain
+
+Fur Quality: High; No significant gain
+
+Tree Tessellation: Off; 8% FPS increase
+
