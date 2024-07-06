@@ -27,7 +27,7 @@ Last chance before "The Sheep and the Goats"
 + [ ] **Pouring Forth Oil II**
 + [ ] We Loved Once and True I - III
 	###### Valuables
-+ [ ] Antique Watch -  drawer on Wr�bel's house, you have to 	open it during the collecting without taking what's inside 	(after you leave, come back for it)
++ [ ] Antique Watch -  drawer on Wróbel's house, you have to 	open it during the collecting without taking what's inside 	(after you leave, come back for it)
 
 ---
 
@@ -186,7 +186,7 @@ Last chance before "Paradise Mercifully Departed"
 ### CHAPTER 6
 Last chance before "The Fine Art of Conversation"
 	###### Documents
-+ [ ] Letter to Tom from Colm — during "Mrs. Sadie Adler, Widow"
++ [ ] Letter to Tom from Colm â€” during "Mrs. Sadie Adler, Widow"
 	###### Missions
 + [ ] Archeology for Beginners
 + [ ] Honor, Amongst Thieves
@@ -219,7 +219,7 @@ Last chance before "American Venom"
 _________________________________________
 
 	### Stranger Missions 
-(seg�n las voy haciendo; NO EST�N TODAS)
+(según las voy haciendo; NO ESTÁN TODAS; NO HACER CASO A ESTO; RELLENAR SEGÚN TU PLAYTHROUGH)
 + [ ] A Bright Bouncing Boy
 + [ ] A Fisher of Fish
 + [ ] A Test of Faith
