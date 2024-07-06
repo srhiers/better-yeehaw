@@ -1,0 +1,242 @@
+## About
+
+https://codeberg.org/mycus/rdr2-missables-checklist
+
+It is based on [this article](https://reddead.fandom.com/wiki/Missable_Content_in_Redemption_2).
+
+---
+
+### CHAPTER 1
+	###### Documents
++ [ ] Mining Company Letter to Cornwall - during "Who the Hell is Leviticus Cornwall?"
++ [ ] Oil Company Letter to Cornwall - during "Who the Hell is Leviticus Cornwall?"
+
+---
+
+### CHAPTER 2
+Last chance before "The Sheep and the Goats"
+	###### Companion Activities
++ [ ] Charles Smith - Hunting
++ [ ] Javier Escuella - Home Robbery
++ [ ] Lenny Summers - Five Finger Fillet
+	###### Documents
++ [ ] **Charity Handbill - Thomas Downes's table on Valentine**
++ [ ] Dutch's Speech Notes - near a broken wagon on Horseshoe 	Overlook
+	###### Missions
++ [ ] Money Lending and Other Sins I & II
++ [ ] **Pouring Forth Oil II**
++ [ ] We Loved Once and True I - III
+	###### Valuables
++ [ ] Antique Watch -  drawer on Wróbel's house, you have to 	open it during the collecting without taking what's inside 	(after you leave, come back for it)
+
+---
+
+### CHAPTERS 2 - 4
+	###### Achievements
++ [ ] Errand Boy - deliver 5 camp companion item requests
++ [ ] Friends with Benefits - complete a companion activity in each camp
++ [ ] Give to the Poor - donate $250 to the gang tithing box
+	###### Companinon Activities
++ [ ] Javier Escuella - Rescue Bill Williamson (available after "The First Shall Be Last")
+
+---
+
+### CHAPTERS 2 - 5
+	###### Documents
++ [ ] Letter from St. Luke's Academy - looted from workers at Appleseed Timber Company (also restricted to the event duration)
+	###### Hats
++ [ ] Bucket Hat - worn by workers at Appleseed Timber Company (also restricted to the event duration)
+	###### Missions
++ [ ] Good, Honest, Snake Oil
+
+---
+
+### CHAPTERS 2 - 6
+	###### Documents
++ [ ] A Zoological Compendium of Earth's Creatures - Arthur's tent
++ [ ] Chelonian Handbill - Saint Denis
++ [ ] Letter from Ms. Hobbs - after "A Better World, A New Friend"
++ [ ] Rambles through Woods and Plains - Arthur's tent
+	###### Event Areas
++ [ ] Appleseed Timber Company's - 4/4 stages
++ [ ] Castor's Ridge's - 4/4 stages
++ [ ] Central Union Railroad Camp's - 2/3 stages
+	###### Hats
++ [ ] Classic Raccoon Mountain Hat - from Jon at the Saloon
++ [ ] Newsboy Cap - from enemies during "The Sheep and the Goats", "An Honest Mistake" and "Just a Social Call" (your last opportunity is a random event during Chapter 6: the hat is worn by an oil wagon driver near the bridge between Strawberry and Riggs Station)
+	###### Home Robbery
++ [ ] Van Horn Mansion
+	###### Point of Interest
++ [ ] Braithwaite's Secret - outhouse near Braithwaite Manor
+	###### Strangers
++ [ ] Arcadia for Amateurs III
++ [ ] Fundraiser
+
+---
+
+### CHAPTERS 2 - E
+	###### Animal Compendium
++ [ ] Carolina Parakeet - study one before leading all 25 of them to extinction
+	###### Documents
++ [ ] Bride Photograph - from the corpse of Jim, near the crashed wagon northeast of Strawberry
++ [ ] Letter to Edmund from Mother - during "American Dreams"
++ [ ] Letter to Mayor Timmins from Belinda - loot Nicholas Timmins
++ [ ] Letter to Nigel from Tom - loot Gavin's friend
++ [ ] Letter to Pa - loot a rally member during any Ku Klux Klan's chance encounter
++ [ ] Letter to the Editor - during "American Dreams"
++ [ ] Meeting Notes - loot a rally member during any Ku Klux Klan's chance encounter
++ [ ] Murfree Brood Prisoner's Note - loot a hanged person
++ [ ] Murfree Brood Ransom Note - loot a hanged person
++ [ ] Night Folk Victim's Note - loot a hanged person
++ [ ] Night Folk Wagerer's Note - loot a hanged person
++ [ ] Wild Man's Journal - kill the wolf after following the Feral Man to his cave (3rd encounter)
+	###### Hats
++ [ ] Fisherman's Hat - knock Jeremy Gill's hat off his head before triggering his quest
++ [ ] Liberty Hat - worn by an enemy during "An American Pastoral Scene" or worn by a hogtied man during the stranger mission "A Fine Night For It"
+	###### Valuables
++ [ ] Native American Ring - loot a drunk man at a campfire (random event
+	###### Weapons
++ [ ] Flaco's Revolver - loot Flaco during "The Noblest of Men, and a Woman"
++ [ ] Granger's Revolver - loot Granger during "The Noblest of Men, and a Woman"
++ [ ] Midnight's Pistol - loot Midnight during "The Noblest of Men, and a Woman"
++ [ ] Ornate Dagger - loot the Vampire
++ [ ] Rare Shotgun - loot the Hermit (northwest of Annesburg)
+
+---
+
+### CHAPTER 3
+Last chance before "Blood Feuds, Ancient and Modern"
+	###### Documents
++ [ ] Letter to Angelo Bronte - during "Blood Feuds, Ancient and Modern"
++ [ ] Mine Share - during "Magicians for Sport"
+	###### Missions
++ [ ] Money Lending and Other Sins IV
++ [ ] The Course of True Love I - III
+	###### Valuables
++ [ ] Gold Shield - during "Blood Feuds, Ancient and Modern" (on the same room as the "Letter to Angelo Bronte")
+	###### Weapons
++ [ ] Rare Rolling Block Rifle - loot a bounty hunter during "Magicians for Sport"
+
+---
+
+### CHAPTERS 3 - E
+	###### Trinkets
++ [ ] Lion's Paw - after killing the lion during "He's British, of Course IV" (loot it)
+
+---
+
+### CHAPTER 4
+Last chance before "Banking, the Old American Art"
+	###### Bounty Hunting
++ [ ] Anthony Foreman - he will not be available to hunt down in the epilogue if you kill him during "No, No and Thrice, No"
+	###### Documents
++ [ ] Letter to Bronte from the Mayor - during "The Gilded Cage"
++ [ ] Letter to Nate from Momma - during home robbery or during the mission "Money Lending and Other Sins V"
++ [ ] List of Accounts - during "Revenge is a Dish Best Eaten"
++ [ ] Telegram to Police Chief Lamber - during "Revenge is a Dish Best Eaten"
++ [ ] Theatre Ticket - during "The Gilded Cage"
+	###### Missions
++ [ ] Brothers and Sisters, One and All
++ [ ] Fatherhood and Other Dreams I & II
++ [ ] Help a Brother Out
++ [ ] Money Lending and Other Sins V
+
+---
+
+### CHAPTERS 4 - 6
+	###### Documents
++ [ ] Electric Chair Blueprint - during "The Mercies of Knowledge"
+	###### Strangers
++ [ ] The Mercies of Knowledge I - VII
+
+---
+
+### CHAPTERS 4 - E
+	###### Documents
++ [ ] Inventor's Note - during "A Bright Bouncing Boy"
++ [ ] Inventor's Plan - during "A Bright Bouncing Boy"
+	###### Weapons
++ [ ] Calloway's Revolver - loot Jim Boy during "The Noblest of Men, and a Woman" (available after "A Fine Night of Debauchery")
+
+---
+
+### CHAPTER 5
+Last chance before "Paradise Mercifully Departed"
+	###### Animal Compendium
++ [ ] Blue & Yellow Macaw
++ [ ] Great Green Macaw
++ [ ] Rainbow Boa Snake
++ [ ] Red-Footed Booby
++ [ ] Red-Tailed Boa Snake
++ [ ] Scarlet Macaw
++ [ ] Sunglow Boa Snake		
+	###### Hats
++ [ ] Sun Hat - loot an enemy during any mission at Guarma
+
+---
+
+### CHAPTERS 5 - 6
+	###### Documents
++ [ ] Letter from Charlotte - during "Charlotte Balfour"
+	###### Strangers
++ [ ] The Widow of Willard's Rest
+
+---
+
+### CHAPTER 6
+Last chance before "The Fine Art of Conversation"
+	###### Documents
++ [ ] Letter to Tom from Colm â€” during "Mrs. Sadie Adler, Widow"
+	###### Missions
++ [ ] Archeology for Beginners
++ [ ] Honor, Amongst Thieves
++ [ ] Money Lending and Other Sins VI & VII
++ [ ] Mrs. Sadie Adler, Widow I & II
++ [ ] The Course of True Love IV & V
+	###### Strangers
++ [ ] Do Not Seek Absolution I & II
++ [ ] Of Men and Angels
+	###### Trinkets
++ [ ] Owl Feather Trinket - do not kill anyone during "Archeology for Beginners"
+
+---
+
+### EPILOGUE
+Last chance before "American Venom"
+	###### Hats
++ [ ] John's Gambler's Hat - worn by himself after "Simple Pleasures";
++ [ ] Worn Flat Cap - worn by himself during "The Wheel".
+	###### Item Requests
++ [ ] Charles Smith - Eagle Feathers
+
+---
+
+### AFTER
+	###### Item Requests
++ [ ] **Uncle - Home Remedy Ingredients**
+
+
+_________________________________________
+
+	### Stranger Missions 
+(según las voy haciendo; NO ESTÁN TODAS)
++ [ ] A Bright Bouncing Boy
++ [ ] A Fisher of Fish
++ [ ] A Test of Faith
++ [ ] Academia for Amateurs V
++ [ ] American Dreams
++ [ ] All That Glitters
++ [ ] Brothers and Sisters
++ [ ] Geology for Beginners
++ [ ] He's British of Course
++ [ ] Help a Brother Out
++ [ ] Idealism and Pragmatism for Beginners (II)
++ [ ] No Good Deed
++ [ ] Oh, Brother (II)
++ [ ] Smoking and Other Hobbies
++ [ ] The Artist's Way
++ [ ] The Iniquities of History
++ [ ] The Mercies of Knowledge
++ [ ] The Noblest of Men, and a Woman
++ [ ] The Smell of the Grease Paint
++ [ ] The Ties That Bind Us
