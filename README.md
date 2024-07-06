@@ -1,4 +1,4 @@
-# better-yeehaw
+# better-yeehaw :cowboy_hat_face:
 *This is how I like to play RDR2. [MODPACK]*
 
 ## Prerequisites:‎
