@@ -59,10 +59,6 @@ Secondly, this category includes various mods that correct errors in graphics, p
 ## Vanilla+ Mods:
 Finally, here are some of my favorite mods that add content to the game or make improvements that I believe are essential.
 
-- [ARTHUR MORGAN OUTFIT OVERHAUL]
-
-(https://www.nexusmods.com/reddeadredemption2/mods/947)
-
 - [GUN METAL REWORK]
 
 (https://www.nexusmods.com/reddeadredemption2/mods/648)
