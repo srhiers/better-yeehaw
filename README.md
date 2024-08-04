@@ -26,7 +26,7 @@ Secondly, this category includes various mods that correct errors in graphics, p
 
 - [BANDOLIER FIX]
 
-(https://www.nexusmods.com/reddeadredemption2/mods/3551)
+(https://www.nexusmods.com/reddeadredemption2/mods/982)
 
 - [CORN SACK FIX]
 
