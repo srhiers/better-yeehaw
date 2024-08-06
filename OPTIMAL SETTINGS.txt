@@ -16,7 +16,7 @@ Reflection Quality: Medium; 16% FPS increase | Medium; 21% FPS increase, slight 
 
 Mirror Quality: Ultra
 
-Water Quality: Medium; 15% FPS increase, slight noticeable visual difference
+Water Quality: High; Slight noticeable visual difference
 
 Volumetrics Quality: High; 5% FPS increase | Medium; 7% FPS increase, slight noticeable visual difference
 
