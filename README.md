@@ -80,15 +80,6 @@ Finally, here are some of my favorite mods that add content to the game or make 
 - [LAW]
 
 (https://www.nexusmods.com/reddeadredemption2/mods/1546)
-
-- [NO AUTO HORSE EQUIP]
-
-(https://www.nexusmods.com/reddeadredemption2/mods/1970)
-
-- [NO AUTO HORSE HOLSTERING]
-
-(https://www.nexusmods.com/reddeadredemption2/mods/1954)
-
 - [NO BOUNTY WHEN MASKED]
 
 (https://www.nexusmods.com/reddeadredemption2/mods/2248)
