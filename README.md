@@ -73,10 +73,6 @@ Finally, here are some of my favorite mods that add content to the game or make 
 
 (https://www.nexusmods.com/reddeadredemption2/mods/3732)
 
-- [JOHN MARSTON EXTENDED ANIMATIONS]
-
-(https://www.nexusmods.com/reddeadredemption2/mods/1420)
-
 - [LAW]
 
 (https://www.nexusmods.com/reddeadredemption2/mods/1546)
